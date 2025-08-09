@@ -1,31 +1,31 @@
 <div align="center">
-    <a href="https://github.com/MarSeventh/CloudFlare-ImgBed"><img width="80%" alt="logo" src="static/readme/banner.png"/></a>
+    <a href="https://github.com/zengzilu-blog/CloudFlare-ImgBed"><img width="80%" alt="logo" src="static/readme/banner.png"/></a>
     <p><em>🗂️Open-source file hosting solution, supporting Docker and serverless deployment, supporting multiple storage channels such as Telegram Bot, Cloudflare R2, S3, etc.</em></p>
     <p>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/README.md">简体中文</a> | <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/README_en.md">English</a> | <a
-        href="https://cfbed.sanyue.de/en">Official Website</a>
+        <a href="https://github.com/zengzilu-blog/CloudFlare-ImgBed/blob/main/README.md">简体中文</a> | <a href="https://github.com/zengzilu-blog/CloudFlare-ImgBed/blob/main/README_en.md">English</a> | <a
+        href="https://cfbed.zengzilu.de/en">Official Website</a>
     </p>
     <div>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/MarSeventh/CloudFlare-ImgBed" alt="License" />
+        <a href="https://github.com/zengzilu-blog/CloudFlare-ImgBed/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/zengzilu-blog/CloudFlare-ImgBed" alt="License" />
         </a>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/releases">
-        <img src="https://img.shields.io/github/release/MarSeventh/CloudFlare-ImgBed" alt="latest version" />
+        <a href="https://github.com/zengzilu-blog/CloudFlare-ImgBed/releases">
+        <img src="https://img.shields.io/github/release/zengzilu-blog/CloudFlare-ImgBed" alt="latest version" />
         </a>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/releases">
-        <img src="https://img.shields.io/github/downloads/MarSeventh/CloudFlare-ImgBed/total?color=%239F7AEA&logo=github" alt="Downloads" />
+        <a href="https://github.com/zengzilu-blog/CloudFlare-ImgBed/releases">
+        <img src="https://img.shields.io/github/downloads/zengzilu-blog/CloudFlare-ImgBed/total?color=%239F7AEA&logo=github" alt="Downloads" />
         </a>
-        <a href="https://hub.docker.com/r/marseventh/cloudflare-imgbed">
-  		  <img src="https://img.shields.io/docker/pulls/marseventh/cloudflare-imgbed?style=flat-square" alt="Docker Pulls" />
+        <a href="https://hub.docker.com/r/zengzilu-blog/cloudflare-imgbed">
+  		  <img src="https://img.shields.io/docker/pulls/zengzilu-blog/cloudflare-imgbed?style=flat-square" alt="Docker Pulls" />
 		</a>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/issues">
-          <img src="https://img.shields.io/github/issues/MarSeventh/CloudFlare-ImgBed" alt="Issues" />
+        <a href="https://github.com/zengzilu-blog/CloudFlare-ImgBed/issues">
+          <img src="https://img.shields.io/github/issues/zengzilu-blog/CloudFlare-ImgBed" alt="Issues" />
         </a>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/stargazers">
-          <img src="https://img.shields.io/github/stars/MarSeventh/CloudFlare-ImgBed" alt="Stars" />
+        <a href="https://github.com/zengzilu-blog/CloudFlare-ImgBed/stargazers">
+          <img src="https://img.shields.io/github/stars/zengzilu-blog/CloudFlare-ImgBed" alt="Stars" />
         </a>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/network/members">
-          <img src="https://img.shields.io/github/forks/MarSeventh/CloudFlare-ImgBed" alt="Forks" />
+        <a href="https://github.com/zengzilu-blog/CloudFlare-ImgBed/network/members">
+          <img src="https://img.shields.io/github/forks/zengzilu-blog/CloudFlare-ImgBed" alt="Forks" />
         </a>
     </div>
 </div>
@@ -71,15 +71,15 @@
 
 # 1. Introduction
 
-Free file hosting solution with full lifecycle features including **upload**, **management**, **read**, and **delete**, supporting **authentication**, **directories**, **image moderation**, **random images**, and other features (see [Feature Docs](https://cfbed.sanyue.de/en/guide/features.html) for details).
+Free file hosting solution with full lifecycle features including **upload**, **management**, **read**, and **delete**, supporting **authentication**, **directories**, **image moderation**, **random images**, and other features (see [Feature Docs](https://cfbed.zengzilu.de/en/guide/features.html) for details).
 
 ![CloudFlare](static/readme/海报.png)
 
-# 2. [Document](https://cfbed.sanyue.de/en)
+# 2. [Document](https://cfbed.zengzilu.de/en)
 
 Provides detailed deployment documentation, feature docs, development plans, update logs, FAQ, and more to help you get started quickly.
 
-[![recent update](https://recent-update.cfbed.sanyue.de/en)](https://cfbed.sanyue.de/en/guide/update-log.html)
+[![recent update](https://recent-update.cfbed.zengzilu.de/en)](https://cfbed.zengzilu.de/en/guide/update-log.html)
 
 # 3. Demo
 
@@ -104,27 +104,27 @@ Provides detailed deployment documentation, feature docs, development plans, upd
 
 # 4. Tips
 
-- Frontend is open source, see [MarSeventh/Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub).
+- Frontend is open source, see [zengzilu-blog/zengzilu-ImgHub](https://github.com/zengzilu-blog/zengzilu-ImgHub).
 
-- **Ecosystem**: We welcome community participation in the ecosystem construction. Feel free to submit PRs or Issues, and high-quality content can be found on the [official ecosystem page](https://cfbed.sanyue.de/en/about/ecosystem.html).
+- **Ecosystem**: We welcome community participation in the ecosystem construction. Feel free to submit PRs or Issues, and high-quality content can be found on the [official ecosystem page](https://cfbed.zengzilu.de/en/about/ecosystem.html).
 
 - **Sponsor**: Maintaining the project is not easy. If you like it, please support the author. Your support is the motivation to keep going~
 
-  <a href="https://afdian.com/a/marseventh"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
+  <a href="https://afdian.com/a/zengzilu-blog"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
   
 - **Sponsors**: Thanks to the following sponsors for supporting this project!
 
-  [![sponsors](https://afdian-sponsors.sanyue.de/image)](https://afdian.com/a/marseventh)
+  [![sponsors](https://afdian-sponsors.zengzilu.de/image)](https://afdian.com/a/zengzilu-blog)
   
 - **Contributors**: Thanks to the following contributors for their selfless contributions!
 
-  [![Contributors](https://contrib.rocks/image?repo=Marseventh/Cloudflare-ImgBed)](https://github.com/MarSeventh/CloudFlare-ImgBed/graphs/contributors)
+  [![Contributors](https://contrib.rocks/image?repo=zengzilu-blog/Cloudflare-ImgBed)](https://github.com/zengzilu-blog/CloudFlare-ImgBed/graphs/contributors)
 
 # 5. Star History
 
 **If you like the project, please give a free star✨✨✨, thank you very much!**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=MarSeventh/CloudFlare-ImgBed,MarSeventh/Sanyue-ImgHub&type=Date)](https://star-history.com/#MarSeventh/CloudFlare-ImgBed&MarSeventh/Sanyue-ImgHub&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zengzilu-blog/CloudFlare-ImgBed,zengzilu-blog/zengzilu-ImgHub&type=Date)](https://star-history.com/#zengzilu-blog/CloudFlare-ImgBed&zengzilu-blog/zengzilu-ImgHub&Date)
 
 # 6. Special Sponsors
 
